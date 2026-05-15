@@ -10,6 +10,14 @@ Dep: LibreHardwareMonitor (Open Source)
 - Frequência da CPU e GPU (com gráfico sparkline)
 - Nome do processo/jogo em execução
 
+## ⬇️ Download
+
+Baixe a versão mais recente do **FrameCansado**:
+
+- Windows 10/11: [Download FrameCansado](https://github.com/zRafaX/FrameCansado/releases/latest)
+
+> Extraia o `.zip` e execute `FrameCansado.exe`.
+
 | Layout padrão |
 |----------------|
 | ![03](https://github.com/zRafaX/StatusOverlay/blob/main/assets/03.png?raw=true) |
