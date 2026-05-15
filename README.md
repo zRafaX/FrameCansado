@@ -1,8 +1,8 @@
-# Status Overlay – Monitor de desempenho (FPS)
+# FrameCansado – Monitor de desempenho (FPS)
 
 Dep: LibreHardwareMonitor (Open Source)
 
-**Status Overlay** é um overlay leve para Windows que exibe em tempo real:
+**FrameCansado** é um overlay leve para Windows que exibe em tempo real:
 - FPS do jogo (DirectX 9/10/11/12, Vulkan e OpenGL)
 - Uso e temperatura da CPU
 - Uso e temperatura da GPU
