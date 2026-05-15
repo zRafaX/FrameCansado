@@ -10,9 +10,13 @@ Dep: LibreHardwareMonitor (Open Source)
 - Frequência da CPU e GPU (com gráfico sparkline)
 - Nome do processo/jogo em execução
 
-| Layout configuração | Layout padrão | Compacto horizontal |
-|----------------|-------------------|--------------------|
-|  ![02](https://github.com/zRafaX/StatusOverlay/blob/main/assets/01.png?raw=true) | ![03](https://github.com/zRafaX/StatusOverlay/blob/main/assets/03.png?raw=true) | ![01](https://github.com/zRafaX/StatusOverlay/blob/main/assets/02.png?raw=true) |
+| Layout padrão |
+|----------------|
+| ![03](https://github.com/zRafaX/StatusOverlay/blob/main/assets/03.png?raw=true) |
+
+| Layout configuração |
+|----------------|
+|  ![02](https://github.com/zRafaX/StatusOverlay/blob/main/assets/01.png?raw=true) |
 
 ## ⚙️ Configurações (config.ini)
 
