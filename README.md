@@ -8,8 +8,6 @@
 - Frequência da CPU e GPU (com gráfico sparkline)
 - Nome do processo/jogo em execução
 
-O overlay é desenhado com **ImGui** e utiliza o **LibreHardwareMonitor** (via PawnIO driver) para leituras precisas de hardware, além de ETW para capturar o FPS real do jogo.
-
 | Layout configuração | Layout padrão | Compacto horizontal |
 |----------------|-------------------|--------------------|
 |  ![02](https://github.com/zRafaX/StatusOverlay/blob/main/assets/01.png?raw=true) | ![03](https://github.com/zRafaX/StatusOverlay/blob/main/assets/03.png?raw=true) | ![01](https://github.com/zRafaX/StatusOverlay/blob/main/assets/02.png?raw=true) |
